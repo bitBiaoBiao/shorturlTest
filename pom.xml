@@ -20,7 +20,7 @@
         <git-commit-id>4.9.10</git-commit-id>
         <snakeyaml.version>1.33</snakeyaml.version>
         <druid.version>1.2.8</druid.version>
-        <fastjson.version>1.2.83</fastjson.version>
+        <fastjson.version>1.2.83_noneautotype</fastjson.version>
         <transmittable.version>2.12.3</transmittable.version>
         <commons-codec.version>1.15</commons-codec.version>
         <log4j-core.version>2.17.1</log4j-core.version>
